@@ -67,7 +67,7 @@ SpaceGreenhouse/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/SpaceGreenhouse.git
+git clone https://github.com/linerfan5114/SpaceGreenhouse.git
 cd SpaceGreenhouse
 
 # Install dependencies
